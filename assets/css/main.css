@@ -4932,9 +4932,9 @@ a img {
 
 @media only screen and (min-width:550px) {
     .header-icons .icon {
-        width: 35px;
-        height: 35px;
-        font-size: 35px
+        width: 58px;
+        height: 58px;
+        font-size: 32px
     }
 }
 
@@ -5009,6 +5009,12 @@ a img {
 .user-details {
     text-align: center;
     margin: 5px auto
+}
+
+.texto_ilove {
+    text-align: center;
+    font-size: 11px;
+    display: flex;
 }
 
 #projects {
